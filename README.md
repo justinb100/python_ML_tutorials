@@ -4,5 +4,5 @@ Each directory here has a python notebook that was adapted from the Python Machi
 
 Python version used was 3.6. If you would like to preview the html python notebooks in browswer without downloading: prepend http://htmlpreview.github.io/? before the link works. 
 
-1 - Working with data and regressions 
-2 - Building classifiers
+1. Working with data and regressions 
+2. Building classifiers
