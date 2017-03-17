@@ -6,3 +6,4 @@ Python version used was 3.6. If you would like to preview the html python notebo
 
 1. Working with data and regressions 
 2. Building classifiers
+3. Predictive Modeling 
