@@ -8,3 +8,4 @@ Python version used was 3.6. If you would like to preview the html python notebo
 2. Building Classifiers
 3. Predictive Modeling 
 4. Clustering with Unsupervised Learning
+5. Building Recommendation Engines 
